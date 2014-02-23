@@ -1,4 +1,4 @@
-Program to detect fire in realtime.
+B.Tech project: To detect fire in realtime.
 
 Input: Two sequencial video frames in png format. 
 
