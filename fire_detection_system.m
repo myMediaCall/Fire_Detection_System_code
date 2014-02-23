@@ -1,3 +1,6 @@
+
+
+
 clc;
 
 %I = imread('org.png');     % I = first frame
